@@ -1,0 +1,6 @@
+﻿  Ak.cpp
+  Main.cpp
+C:\Users\Denis\Desktop\Новая папка\AK-47\AK-47\Main.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+C:\Users\Denis\Desktop\Новая папка\AK-47\AK-47\Main.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AK-47.vcxproj -> C:\Users\Denis\Desktop\Новая папка\AK-47\x64\Debug\AK-47.exe
